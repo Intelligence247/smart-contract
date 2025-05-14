@@ -21,5 +21,3 @@ contract FundMe {
 // world provide external data or computation to smart contracts.
 
 // Chainlink is a decentralized oracle network for bringing data and external computation into our smart contracts.
-
-// The above code gives the exact amount of eth value in USD
