@@ -16,3 +16,10 @@ contract FundMe {
 
     // function withdraw() public {}
 }
+
+// A blockchsin oracle is going to be any device that interacts with the off chain
+// world provide external data or computation to smart contracts.
+
+// Chainlink is a decentralized oracle network for bringing data and external computation into our smart contracts.
+
+// The above code gives the exact amount of eth value in USD
